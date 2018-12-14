@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Sirenia.HL7</id>
+    <version>$version$</version>
+    <authors>Sirenia</authors>
+    <owners>Sirenia</owners>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
+    <projectUrl>https://github.com/sireniaeu/hl7</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HL7 lib</description>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+  <files>
+    <file src="..\bin\Release\net452\HL7-dotnetcore.dll" target="lib\net452" />
+    <file src="..\bin\Release\net452\HL7-dotnetcore.pdb" target="lib\net452" />
+  </files>
+</package>
